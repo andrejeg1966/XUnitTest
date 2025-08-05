@@ -1,0 +1,17 @@
+C:\Dev\Unit Test\NetworkUtility\bin\Debug\net8.0\NetworkUtility.exe
+C:\Dev\Unit Test\NetworkUtility\bin\Debug\net8.0\NetworkUtility.deps.json
+C:\Dev\Unit Test\NetworkUtility\bin\Debug\net8.0\NetworkUtility.runtimeconfig.json
+C:\Dev\Unit Test\NetworkUtility\bin\Debug\net8.0\NetworkUtility.dll
+C:\Dev\Unit Test\NetworkUtility\bin\Debug\net8.0\NetworkUtility.pdb
+C:\Dev\Unit Test\NetworkUtility\obj\Debug\net8.0\NetworkUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Unit Test\NetworkUtility\obj\Debug\net8.0\NetworkUtility.AssemblyInfoInputs.cache
+C:\Dev\Unit Test\NetworkUtility\obj\Debug\net8.0\NetworkUtility.AssemblyInfo.cs
+C:\Dev\Unit Test\NetworkUtility\obj\Debug\net8.0\NetworkUtility.csproj.CoreCompileInputs.cache
+C:\Dev\Unit Test\NetworkUtility\obj\Debug\net8.0\NetworkUtility.dll
+C:\Dev\Unit Test\NetworkUtility\obj\Debug\net8.0\refint\NetworkUtility.dll
+C:\Dev\Unit Test\NetworkUtility\obj\Debug\net8.0\NetworkUtility.pdb
+C:\Dev\Unit Test\NetworkUtility\obj\Debug\net8.0\NetworkUtility.genruntimeconfig.cache
+C:\Dev\Unit Test\NetworkUtility\obj\Debug\net8.0\ref\NetworkUtility.dll
+C:\Dev\Unit Test\NetworkUtility\bin\Debug\net8.0\FluentAssertions.dll
+C:\Dev\Unit Test\NetworkUtility\obj\Debug\net8.0\NetworkUtility.csproj.AssemblyReference.cache
+C:\Dev\Unit Test\NetworkUtility\obj\Debug\net8.0\NetworkU.DCE99058.Up2Date

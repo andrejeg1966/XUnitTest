@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q0IEP7qOWBE=",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Unit Test\\NetworkUtility\\NetworkUtility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GoranAndrejevic\\.nuget\\packages\\fluentassertions\\8.2.0\\fluentassertions.8.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

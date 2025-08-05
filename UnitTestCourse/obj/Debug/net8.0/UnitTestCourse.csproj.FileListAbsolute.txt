@@ -1,0 +1,17 @@
+C:\Dev\Unit Test\UnitTestCourse\obj\Debug\net8.0\UnitTestCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Unit Test\UnitTestCourse\obj\Debug\net8.0\UnitTestCourse.AssemblyInfoInputs.cache
+C:\Dev\Unit Test\UnitTestCourse\obj\Debug\net8.0\UnitTestCourse.AssemblyInfo.cs
+C:\Dev\Unit Test\UnitTestCourse\obj\Debug\net8.0\UnitTestCourse.csproj.CoreCompileInputs.cache
+C:\Dev\Unit Test\UnitTestCourse\bin\Debug\net8.0\UnitTestCourse.exe
+C:\Dev\Unit Test\UnitTestCourse\bin\Debug\net8.0\UnitTestCourse.deps.json
+C:\Dev\Unit Test\UnitTestCourse\bin\Debug\net8.0\UnitTestCourse.runtimeconfig.json
+C:\Dev\Unit Test\UnitTestCourse\bin\Debug\net8.0\UnitTestCourse.dll
+C:\Dev\Unit Test\UnitTestCourse\bin\Debug\net8.0\UnitTestCourse.pdb
+C:\Dev\Unit Test\UnitTestCourse\obj\Debug\net8.0\UnitTestCourse.dll
+C:\Dev\Unit Test\UnitTestCourse\obj\Debug\net8.0\refint\UnitTestCourse.dll
+C:\Dev\Unit Test\UnitTestCourse\obj\Debug\net8.0\UnitTestCourse.pdb
+C:\Dev\Unit Test\UnitTestCourse\obj\Debug\net8.0\UnitTestCourse.genruntimeconfig.cache
+C:\Dev\Unit Test\UnitTestCourse\obj\Debug\net8.0\ref\UnitTestCourse.dll
+C:\Dev\Unit Test\UnitTestCourse\bin\Debug\net8.0\FluentAssertions.dll
+C:\Dev\Unit Test\UnitTestCourse\obj\Debug\net8.0\UnitTestCourse.csproj.AssemblyReference.cache
+C:\Dev\Unit Test\UnitTestCourse\obj\Debug\net8.0\UnitTest.28F56826.Up2Date

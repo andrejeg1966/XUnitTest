@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fx09fBPCvP4=",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Unit Test\\UnitTestCourse\\UnitTestCourse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GoranAndrejevic\\.nuget\\packages\\fluentassertions\\8.2.0\\fluentassertions.8.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
