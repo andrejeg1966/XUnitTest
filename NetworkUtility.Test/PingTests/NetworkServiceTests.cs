@@ -11,6 +11,8 @@ using NetworkUtility.DNS;
 using NetworkUtility.Ping;
 using Xunit;
 
+//https://www.youtube.com/watch?v=aq3IbO0RwAQ&list=PL82C6-O4XrHeyeJcI5xrywgpfbrqdkQd4&index=1
+//https://github.com/teddysmithdev/RunGroop
 
 using FakeItEasy;
 
@@ -36,7 +38,7 @@ namespace NetworkUtility.Test.PingTests
         public void NetwNetworkService_SendPing_ReturnString()
         {
             //Arange
-            A.CallTo(() => _dNS.SendDNS()).Returns(true);  //fake der Returnwert von SendDNS()
+            A.CallTo(() => _dNS.SendDNS()).Returns(true);  //fake der Returnwert true von SendDNS()
 
             //Act
             var result = _pingService.SendPing();
